@@ -43,7 +43,6 @@ Copyright © 2022-2025 trenutoo/pterodactyl-images
 Portions of the Dockerfiles and documentation in this repository were adapted from  
 <https://github.com/trenutoo/pterodactyl-images> and are redistributed under
 the terms of the original MIT License.
-```
 
 ### 🙏 Special thanks
 

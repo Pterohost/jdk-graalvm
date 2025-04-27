@@ -13,6 +13,7 @@ All images are published to **GitHub Container Registry** and include both `amd6
 | **Java 17 (GraalVM JDK)** | `ghcr.io/pterohost/pterodactyl-images:java_17_graalvm` | `docker pull ghcr.io/pterohost/pterodactyl-images:java_17_graalvm` |
 | **Java 21 (GraalVM JDK)** | `ghcr.io/pterohost/pterodactyl-images:java_21_graalvm` | `docker pull ghcr.io/pterohost/pterodactyl-images:java_21_graalvm` |
 | **Java 22 (GraalVM JDK)** | `ghcr.io/pterohost/pterodactyl-images:java_22_graalvm` | `docker pull ghcr.io/pterohost/pterodactyl-images:java_22_graalvm` |
+| **Java 24 (GraalVM JDK)** | `ghcr.io/pterohost/pterodactyl-images:java_24_graalvm` | `docker pull ghcr.io/pterohost/pterodactyl-images:java_24_graalvm` |
 
 > **Tip:** All tags include both `linux/amd64` and `linux/arm64` layers, so Docker will automatically fetch the right architecture for you.
 

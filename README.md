@@ -1,4 +1,3 @@
-```markdown
 # 🐦 Pterohost - Docker Images for Pterodactyl  
 ## Java GraalVM (AMD64 / ARM64)
 
@@ -39,8 +38,6 @@ Everything else (user, working directory, common environment variables) is set u
 * Default working directory `/home/container`
 
 ### 📝 License & attribution
-
-```
 Copyright © 2022-2025 trenutoo/pterodactyl-images
 
 Portions of the Dockerfiles and documentation in this repository were adapted from  
